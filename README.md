@@ -1,3 +1,4 @@
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 # gymdiary-server
 This repository is a server-side application of the Gym diary.
 

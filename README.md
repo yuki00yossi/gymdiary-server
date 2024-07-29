@@ -1,4 +1,4 @@
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+[![Django CI](https://github.com/yuki00yossi/gymdiary-server/actions/workflows/django.yml/badge.svg)](https://github.com/yuki00yossi/gymdiary-server/actions/workflows/django.yml)
 # gymdiary-server
 This repository is a server-side application of the Gym diary.
 

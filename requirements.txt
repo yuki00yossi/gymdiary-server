@@ -1,3 +1,10 @@
+asgiref==3.8.1
 Django==4.2.14
-psycopg2
-django-environ
+django-environ==0.11.2
+django-rest-framework==0.1.0
+django-rest-knox==5.0.1
+djangorestframework==3.15.2
+psycopg2==2.9.9
+setuptools==71.1.0
+sqlparse==0.5.1
+wheel==0.43.0
